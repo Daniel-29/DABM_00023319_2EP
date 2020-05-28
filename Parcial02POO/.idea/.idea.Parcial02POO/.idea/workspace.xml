@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b944cee-2e7e-456d-933e-4272ed654afc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Models/AppOrdera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Login.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Controllers/Validaciones.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/OrdenesUsuario.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Models/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/OrdenesUsuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Models/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Direcciones.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Main.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Negocios.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Producto.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Producto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/UpdatePassword.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/UpdatePassword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Models/Business.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Admin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Admin.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Direcciones.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Client.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Users.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Users.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Models/Conection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/ListOrdenes.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/ListOrdenes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/ListOrdenesU.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/ListOrdenesU.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com.DABM.x00023319/Views/Negocios.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/gdf.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Login.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Program.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/asdasdad.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/Conection.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Controllers/Validaciones.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/ADDRESS.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/PRODUCT.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/APPORDER.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/BUSINESS.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/APPUSER.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Main.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/User.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Client.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Admin.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Users.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Direcciones.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/AppUser.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Negocios.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/Address.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Producto.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/Business.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/OrdenesAdmin.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/OrdenesUsuario.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/ListOrdenesU.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/OrdenesUsuario.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Client.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/ListOrdenesU.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/ListOrdenes.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Admin.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/ListOrdenes.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Models/AppOrdera.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Update Clave.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/UpdateClave.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/UpdatePassword.Designer.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Update Clave.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Login.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/UpdatePassword.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Main.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Direcciones.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Negocios.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Users.cs" />
+        <option value="$PROJECT_DIR$/com.DABM.x00023319/Views/Producto.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cUoSkdSNvTmdSjjpdYVpnCHTiq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="com.DABM.x00023319" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/com.DABM.x00023319/com.DABM.x00023319.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b944cee-2e7e-456d-933e-4272ed654afc" name="Default Changelist" comment="" />
+      <created>1590592535672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590592535672</updated>
+      <workItem from="1590592541281" duration="4511000" />
+      <workItem from="1590597083471" duration="2010000" />
+      <workItem from="1590599104243" duration="32000" />
+      <workItem from="1590599239145" duration="22292000" />
+      <workItem from="1590629043675" duration="987000" />
+      <workItem from="1590630104772" duration="22000" />
+      <workItem from="1590630179807" duration="23000" />
+      <workItem from="1590630652020" duration="2530000" />
+      <workItem from="1590633206882" duration="1533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="824" y="471" key="Assembly removing confirmation dialog" timestamp="1590622647482">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="824" y="471" key="Assembly removing confirmation dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590622647482" />
+    <state width="1877" height="290" key="GridCell.Tab.0.bottom" timestamp="1590633183448">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590633183448" />
+    <state width="1877" height="290" key="GridCell.Tab.0.center" timestamp="1590633183448">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590633183448" />
+    <state width="1877" height="290" key="GridCell.Tab.0.left" timestamp="1590633183448">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590633183448" />
+    <state width="1877" height="290" key="GridCell.Tab.0.right" timestamp="1590633183448">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="290" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590633183448" />
+    <state x="764" y="199" key="RiderGenerateDialog" timestamp="1590626855261">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="764" y="199" key="RiderGenerateDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590626855261" />
+  </component>
+</project>

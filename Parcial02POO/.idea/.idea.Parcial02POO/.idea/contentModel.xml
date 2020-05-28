@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\danie\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\danie\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial02POO.-1866908822.00" t="ExcludeRecursive" />
+    <e p="C:\Users\danie\Documents\Parcial02POO" t="IncludeFlat">
+      <e p="com.DABM.x00023319" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="com.DABM.x00023319.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="Validaciones.cs" t="Include" />
+        </e>
+        <e p="Login.cs" t="Include" />
+        <e p="Login.Designer.cs" t="Include" />
+        <e p="Login.resx" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="Main.Designer.cs" t="Include" />
+        <e p="Main.resx" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Address.cs" t="Include" />
+          <e p="AppOrdera.cs" t="Include" />
+          <e p="APPUSER.cs" t="Include" />
+          <e p="Business.cs" t="Include" />
+          <e p="Conection.cs" t="Include" />
+          <e p="Product.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="UpdatePassword.cs" t="Include" />
+        <e p="UpdatePassword.Designer.cs" t="Include" />
+        <e p="UpdatePassword.resx" t="Include" />
+        <e p="Views" t="Include">
+          <e p="Admin.cs" t="Include" />
+          <e p="Admin.Designer.cs" t="Include" />
+          <e p="Admin.resx" t="Include" />
+          <e p="Client.cs" t="Include" />
+          <e p="Client.Designer.cs" t="Include" />
+          <e p="Client.resx" t="Include" />
+          <e p="Direcciones.cs" t="Include" />
+          <e p="Direcciones.Designer.cs" t="Include" />
+          <e p="Direcciones.resx" t="Include" />
+          <e p="ListOrdenes.cs" t="Include" />
+          <e p="ListOrdenes.Designer.cs" t="Include" />
+          <e p="ListOrdenes.resx" t="Include" />
+          <e p="ListOrdenesU.cs" t="Include" />
+          <e p="ListOrdenesU.Designer.cs" t="Include" />
+          <e p="ListOrdenesU.resx" t="Include" />
+          <e p="Negocios.cs" t="Include" />
+          <e p="Negocios.Designer.cs" t="Include" />
+          <e p="Negocios.resx" t="Include" />
+          <e p="OrdenesUsuario.cs" t="Include" />
+          <e p="OrdenesUsuario.Designer.cs" t="Include" />
+          <e p="OrdenesUsuario.resx" t="Include" />
+          <e p="Producto.cs" t="Include" />
+          <e p="Producto.Designer.cs" t="Include" />
+          <e p="Producto.resx" t="Include" />
+          <e p="Users.cs" t="Include" />
+          <e p="Users.Designer.cs" t="Include" />
+          <e p="Users.resx" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Parcial02POO.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
